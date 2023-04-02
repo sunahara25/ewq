@@ -1,0 +1,16 @@
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/debug-1.7.2/ext/debug
+/Users/sail/.rbenv/versions/2.7.5/bin/ruby -I /Users/sail/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20230401-24800-1wyk3lo.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/debug-1.7.2/ext/debug
+make "DESTDIR=" clean
+
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/debug-1.7.2/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/debug-1.7.2/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20230401-24800-rge9ze/debug

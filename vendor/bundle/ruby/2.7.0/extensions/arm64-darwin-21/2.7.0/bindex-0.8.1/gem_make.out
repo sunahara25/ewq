@@ -1,0 +1,15 @@
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/sail/.rbenv/versions/2.7.5/bin/ruby -I /Users/sail/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20230401-24800-15o77sg.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230401-24800-1wr24od/skiptrace/internal

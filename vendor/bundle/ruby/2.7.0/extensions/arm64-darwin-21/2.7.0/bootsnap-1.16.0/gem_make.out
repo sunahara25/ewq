@@ -1,0 +1,15 @@
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/sail/.rbenv/versions/2.7.5/bin/ruby -I /Users/sail/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20230401-24800-wu75x.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/sail/ewq/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230401-24800-1r7bwl5/bootsnap
